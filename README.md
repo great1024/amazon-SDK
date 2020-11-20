@@ -1,4 +1,5 @@
 # amazon-SDK
 亚马逊api java sdk
-由杨超辉通过amazon sp api 文档，打包了所有的依赖。
+ApiClientService.java 是构建授权案例
+作者：杨超辉
 我只是负责上传。
