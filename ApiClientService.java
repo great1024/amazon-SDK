@@ -1,4 +1,4 @@
-package com.teamytd.service;
+package com.git.service;
 
 import SellingPartnerAPIAA.*;
 import io.swagger.client.ApiClient;
